@@ -57,6 +57,6 @@ A549 overlap | emissions | transitions
 
 ### Бонус 
 
-![](https://github.com/ruanmik/hse_hw3_chromhmm/blob/main/img/bonus.png)
+![](https://github.com/ruanmik/hse_hw3_chromhmm/blob/main/img/last.png)
 
 
